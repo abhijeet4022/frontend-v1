@@ -3,6 +3,7 @@
 
 // Define the variables.
 env.component="frontend"
+codeType="static"
 
 
 // Call the function from shared library
