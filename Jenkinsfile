@@ -6,5 +6,5 @@ env.component="frontend"
 env.codeType="static"
 
 
-// Call the function from shared library..
+// Call the function from shared library.
 cipipeline()
