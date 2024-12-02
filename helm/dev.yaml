@@ -1,0 +1,3 @@
+component: frontend
+appPort: 80
+service_type: LoadBalancer
