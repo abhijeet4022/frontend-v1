@@ -1,3 +1,7 @@
 component: frontend
 appPort: 80
 service_type: LoadBalancer
+env: dev
+schema:
+  enabled: false
+PARAMETERS: "shipping.dev.CART_POD_ENDPOINT,CART_ENDPOINT"
